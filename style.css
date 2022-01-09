@@ -61,4 +61,60 @@ section{
 .ser-details{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 100px;
+}
+#arti-ser{
+    margin-left: 40px;
+    padding-left: 50px;
+    text-align: left;
+    align-self: center;
+    line-height: normal;
+
+}
+#arti-ser h2{
+    font-size: 32px;
+
+}
+#arti-ser p{
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    color: grey;
+}
+.btn{
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: rgb(14, 151, 151);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+#spaisel-text p{
+    font-size: 16px;
+    font-weight: 600;
+    color: grey;
+    
+}
+#spaisel-text .fas{
+    font-size: 10px;
+    margin-right: 10px;
+    color: rgb(14, 151, 151);
+}
+.ser-details img{
+    width: 100%;
+}
+
+#our-ser h1{
+   
+    font-size: 36px;
+}
+#our-ser hr{
+    border: 1px solid rgb(14, 151, 151);
+    width: 50px;
+}
+#ser-p{
+    font-size: 16px;
+    font-weight: 600;
+    color: gray;
 }
